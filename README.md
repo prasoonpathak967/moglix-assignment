@@ -92,9 +92,7 @@ Output: 0
 - Linear Time Algorithm
 - Parentheses Matching
 
----
 
-## 📖 Learning Outcome
 
 This project demonstrates how a **Stack** can efficiently solve parentheses matching problems by tracking indices and calculating valid substring lengths in a single traversal.
 
